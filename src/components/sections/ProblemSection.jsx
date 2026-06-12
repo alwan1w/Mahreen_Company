@@ -71,7 +71,6 @@ const ProblemSection = () => {
       <div className="absolute inset-0 pointer-events-none">
         {" "}
         <div className="absolute left-1/2 top-1/2 w-[800px] h-[500px] -translate-x-1/2 -translate-y-1/2 bg-primary/10 rounded-full blur-[180px]" />
-        ```
         <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,0.015)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.015)_1px,transparent_1px)] bg-[size:60px_60px] opacity-20" />
       </div>
       <div className="relative z-10 mx-auto text-center max-w-7xl">
